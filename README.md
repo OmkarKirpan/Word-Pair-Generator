@@ -1,6 +1,6 @@
-# wordpair_generator
+# WordPair Generator
 
-A new Flutter project.
+Generate random word pairs and add pairs to favorites.
 
 ## Getting Started
 
